@@ -9,8 +9,11 @@ The current COVIDx dataset is constructed by the following open source chest rad
 * https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 * https://www.kaggle.com/c/rsna-pneumonia-detection-challenge (which came from: https://nihcc.app.box.com/v/ChestXray-NIHCC
 
-For thr original COVIDX Github, please visit https://github.com/ieee8023/covid-chestxray-dataset
-To check out how to download the images without masks, you can take a look at the great work by University of Waterloo researchers here; https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md
+For thr original COVIDX Github, please visit;
+https://github.com/ieee8023/covid-chestxray-dataset.
+
+To check out how to download the images without masks, you can take a look at the great work by University of Waterloo researchers here; 
+https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md
 
 
 ## COVIDx data distribution
